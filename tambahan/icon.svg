@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="icon.svg"
+   inkscape:export-filename="/home/zen/aplikasi-android/sholawat-jawa/tambahan/icon.png"
+   inkscape:export-xdpi="74.832954"
+   inkscape:export-ydpi="74.832954"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.16403309"
+     inkscape:cx="-390.16518"
+     inkscape:cy="746.80054"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1330"
+     inkscape:window-height="743"
+     inkscape:window-x="36"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:pagecheckerboard="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#502d16;fill-opacity:1;stroke-width:0.264583"
+       id="rect815"
+       width="339.42264"
+       height="339.42264"
+       x="-326.2673"
+       y="-14.452381"
+       inkscape:export-xdpi="74.832954"
+       inkscape:export-ydpi="74.832954"
+       inkscape:export-filename="/home/zen/aplikasi-android/kalkulator-jualan/tambahan/icon.png" />
+    <path
+       fill="currentColor"
+       d="m -101.76796,152.80496 -50.18058,-43.31854 c -1.86887,-1.60702 -4.60946,-0.14782 -4.60946,2.44431 v 86.65483 c 0,2.60164 2.74122,4.05092 4.60946,2.44453 l 50.18058,-43.33628 c 1.44864,-1.25648 1.44864,-3.63174 0,-4.88885 z m -55.87251,0 -50.18058,-43.31854 c -1.86887,-1.60702 -4.60946,-0.14782 -4.60946,2.44431 v 86.65483 c 0,2.60164 2.74122,4.05092 4.60946,2.44453 l 50.18058,-43.33628 c 0.71587,-0.6293 1.08331,-1.53734 1.08331,-2.44432 0,-0.90804 -0.36744,-1.81608 -1.08331,-2.44453 z"
+       id="path824"
+       style="stroke-width:0.174602;fill:#ffffff" />
+  </g>
+</svg>
