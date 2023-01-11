@@ -1,15 +1,11 @@
-# Ready-made Svelte Templates
+# Aplikasi Android Sholawat Jawa
 
 ## Build
 
-Builds for web apps and Chrome extensions:
+Gunakan [andro](https://github.com/mzaini30/andro)
 
-```bash
-npm run build
-```
+## Support Me
 
-Builds for Android apps:
+Gopay : 0815 4514 3654
 
-```bash
-npm run build:android
-```
+Paypal : muhzaini30@gmail.com
