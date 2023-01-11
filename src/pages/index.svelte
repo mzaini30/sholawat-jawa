@@ -3,11 +3,6 @@
 </script>
 
 <div class="p-2">
-  <a
-    href="https://play.google.com/store/apps/details?id=com.sholawat.jawa"
-    class="p-2 px-3 rounded bg-violet-500 inline-block text-white"
-    >kasih bintang 5</a
-  >
   <div class="rounded overflow-hidden border mt-2">
     {#each lirik.sort() as x}
       <a
@@ -15,5 +10,12 @@
         href="#/lirik/{x.replaceAll(' ', '-').toLowerCase()}">{x}</a
       >
     {/each}
+  </div>
+  <div class="rounded text-sm overflow-hidden mt-3 border">
+    <div class="bg-black text-white p-3 border-b">Support Me</div>
+    <div class="p-3">
+      Gopay : 0815 4514 3654 <br />
+      Paypal : muhzaini30@gmail.com
+    </div>
   </div>
 </div>
